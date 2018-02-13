@@ -26,4 +26,4 @@ password: rabbitmq
 https://www.rabbitmq.com/getstarted.html
 
 ## License
-MIT License
+MIT License.
